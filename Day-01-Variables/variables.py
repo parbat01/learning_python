@@ -1,3 +1,4 @@
+#this is a simple calculator which calculates all the arithmetic operations
 a=float(input("Enter your 1st number :"))
 b=float(input("Enter your 2nd number :"))
 print("Sum of your numbers is : ", a+b)
