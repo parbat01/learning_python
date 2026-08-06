@@ -7,5 +7,9 @@ print(word.find("learning")) # gives 1st index of first occurrence
 print(word.count("a")) # gives a number of how many "a" are there
 reverse= "" .join(reversed(word)) # reverse the string
 print(reverse)
+print(word.upper())#this will covert all the character in uppercase
+print(word.lower())#this will convert all the character in the lower case
+
+
 
 
