@@ -9,6 +9,10 @@ reverse= "" .join(reversed(word)) # reverse the string
 print(reverse)
 print(word.upper())#this will covert all the character in uppercase
 print(word.lower())#this will convert all the character in the lower case
+print(word.isalnum())# returns true if string is made up of these character A-Z,a-z,0-9
+print(word.isalpha())# returns true if string is made up of these character A-Z,a-z.
+print(word.islower())#returns true if all the character in the string is in lower case
+
 
 
 
