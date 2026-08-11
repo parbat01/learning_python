@@ -75,7 +75,7 @@ A menu-driven program for managing student information.
 
 Built a Python program that analyzes student data stored using lists and dictionaries.
 
-** The program can: **
+**The program can:**
 
 - View all students
 - Calculate average marks
