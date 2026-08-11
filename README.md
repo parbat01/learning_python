@@ -71,21 +71,21 @@ A menu-driven program for managing student information.
 1)Functions 2)Lists 3)For Loops 4)While Loops 5)Match-Case 6)Conditions 7)Indexing 8)append() 9)pop() 10)Searching
 
 
-##  📊 Day 7 Project — Student Data Analyzer
+##  📊  Student Data Analyzer
 
 Built a Python program that analyzes student data stored using lists and dictionaries.
 
 **The program can:
 
-View all students
+-View all students
 Calculate average marks
-Find highest marks
-Find lowest marks
-Display passed students
-Display failed students
-Search for a student
-Find unique ages
-Display basic statistics
+-Find highest marks
+-Find lowest marks
+-Display passed students
+-Display failed students
+-Search for a student
+-Find unique ages
+-Display basic statistics
 
 
 
