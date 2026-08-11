@@ -75,17 +75,17 @@ A menu-driven program for managing student information.
 
 Built a Python program that analyzes student data stored using lists and dictionaries.
 
-**The program can:
+** The program can: **
 
--View all students
-Calculate average marks
--Find highest marks
--Find lowest marks
--Display passed students
--Display failed students
--Search for a student
--Find unique ages
--Display basic statistics
+- View all students
+- Calculate average marks
+- Find highest marks
+- Find lowest marks
+- Display passed students
+- Display failed students
+- Search for a student
+- Find unique ages
+- Display basic statistics
 
 
 
