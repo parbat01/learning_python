@@ -1,0 +1,3 @@
+# Day 8 — Recursion in Python
+
+Today I learned about recursion in Python, where a function calls itself to solve a problem by breaking it down into smaller problems. I learned how important base cases are for stopping recursive calls and how recursive cases allow the function to continue working toward the solution. I practiced recursion by creating a Fibonacci Series and Factorial Calculator, and also explored problems such as calculating the sum of digits and reversing a string using recursion. This helped me understand function calls, return values, base cases, and recursive logic while improving my problem-solving skills.
