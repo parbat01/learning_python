@@ -31,6 +31,7 @@ I am using this repository to:
 | Day 5 | Loops and ATM Simulator |
 | Day 6 | Functions, list, and Student Management System |
 | Day 7 | Tuples, Sets, Dictionary, and Student data analyzer |
+| Day 8 | Function recursion |
 
 
 *This table will be updated as I continue learning.
