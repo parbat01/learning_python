@@ -33,6 +33,7 @@ I am using this repository to:
 | Day 7 | Tuples, Sets, Dictionary, and Student data analyzer |
 | Day 8 | Function recursion |
 | Day 9 | Error handling |
+| Day 10 | OS Module |
 
 
 *This table will be updated as I continue learning.
